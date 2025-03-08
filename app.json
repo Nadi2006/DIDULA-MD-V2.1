@@ -6,8 +6,8 @@
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
-            "description": "Paste Your PRABATH-MD session",
+    "SESSION_ID":"ENK77AFW"
+            "description": "0j9zhK4I#8X8UW3Li5PwaFl9YDYO1HYUOCuX0rfUK-mm4F2ip1k4",
             "required": true,
             "value": ""
         }
